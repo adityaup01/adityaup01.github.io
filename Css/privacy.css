@@ -1,0 +1,18 @@
+
+
+.policy{
+  padding:100px 0;
+}
+
+.policy h1{
+  text-align:center;
+  margin-bottom:40px;
+  font-size:48px;
+}
+
+.policy-box{
+  background:#1f2937;
+  padding:40px;
+  border-radius:20px;
+  line-height:1.8;
+}
